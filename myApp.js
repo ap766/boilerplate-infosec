@@ -2,8 +2,6 @@ const express = require('express');
 const app = express();
 const helmet = require('helmet');
 
-const PORT = process.env.PORT || 3030;
-
 
 
 
